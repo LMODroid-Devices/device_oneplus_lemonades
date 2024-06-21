@@ -6,8 +6,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_lemonades.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_lemonades-user \
-    lmodroid_lemonades-userdebug \
-    lmodroid_lemonades-eng
